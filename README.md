@@ -15,4 +15,4 @@ You can configure the mod in the mods menu. Check your forge installaton on wher
 
 **Source code**
 If you would like to help us out and contribute to the mod, please kindly check our Github repository at [Github](https://github.com/schowz/crimsonhelper).\
-**Warning** this is an rat which when intsalled and ran on minecraft u might lose your account use it own risk!
+
