@@ -1,5 +1,5 @@
-# crimsonhelper
-crimsonhelper helps with kuudras quest and it shows all the locations of the npcs in crimson isle
+# crimsontool
+crimsontool helps with kuudras quest and it shows all the locations of the npcs in crimson isle
 
 **PLEASE NOTE:** _This is a forge mod. Not a spigot plugin. Use the forge mod loader to use this mod for yourself._
 
@@ -14,5 +14,5 @@ You can configure the mod in the mods menu. Check your forge installaton on wher
 /kf - Opens the mod menu with a guide on how to use the mod effectively
 
 **Source code**
-If you would like to help us out and contribute to the mod, please kindly check our Github repository at [Github](https://github.com/schowz/crimsonhelper).\
+If you would like to help us out and contribute to the mod, please kindly check our Github repository at [Github](https://github.com/schowz/crimsoncrimsontool).\
 
